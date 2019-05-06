@@ -79,9 +79,5 @@ void loop()
 
 void printInfo()
 {
-  // Compile file path (internal file of compilation proccess)
-  Serial.print("File "); Serial.println(__FILE__);
-  
-  String s1 = __DATE__;
-  String s2 = __TIME__;
+  // place your info here
 }
